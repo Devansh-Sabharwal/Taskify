@@ -18,7 +18,7 @@ body{
     justify-content: space-between;
     background-color: rgb(17, 24, 39);
     color: white;
-    height: 85vh;
+    min-height: 85vh;
     /* width: 100px; */
 }
 .child{
